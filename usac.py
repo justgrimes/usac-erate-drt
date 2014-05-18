@@ -130,3 +130,5 @@ response = br.submit().read()
 
 	#response = br.submit().read()
 	#time.sleep(6) #wait to not kill things
+
+#once looped joined tsv files; strip additional headers from multiple filess
